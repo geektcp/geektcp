@@ -1,4 +1,4 @@
 ### about
-Okwow's next realm will span three expansions, 
+UEwow's next realm will span three expansions, 
 starting at the very beginning. More information availablehere.
 
