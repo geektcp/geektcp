@@ -1,4 +1,3 @@
 ### about
-UeCore's next realm will span three expansions, 
-starting at the very beginning. More information available here.
+UeCore release 1.4.0 version. and will deploy a free server for any player.
 
