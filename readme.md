@@ -27,28 +27,3 @@ UeCore release 1.4.0 version. and will deploy a free server for any player.
   <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=geektcp&hide=autoit&layout=donut&card_width=300" />
 </picture>
 
-###  
-
-<picture>
-  <source
-    srcset="https://github-stats-extended.vercel.app/api/pin/?username=geektcp&theme=github_dark&repo=UeCore"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-stats-extended.vercel.app/api/pin/?username=geektcp&repo=UeCore"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height=127 align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=geektcp&repo=UeCore" />
-</picture>
-<picture>
-  <source
-    srcset="https://github-stats-extended.vercel.app/api/pin/?username=geektcp&theme=github_dark&repo=Kensei"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-stats-extended.vercel.app/api/pin/?username=geektcp&repo=Kensei"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height=127 align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=geektcp&repo=Kensei" />
-</picture>
-
